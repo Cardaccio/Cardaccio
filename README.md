@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan Pablo Gomez</h1>
-<h3 align="center">A passionate frontend developer and designer from Argentina</h3>
+<h3 align="center">A passionate python developer and designer from Argentina</h3>
 
 - 🔭 I’m currently working at JP Morgan
 
