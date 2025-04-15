@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Juan Pablo Gomez</h1>
 <h3 align="center">A passionate frontend developer and designer from Argentina</h3>
 
-- 🔭 I’m currently working on [Tegopet](tegopet.com.ar)
+- 🔭 I’m currently working at JP Morgan
 
-- 🌱 I’m currently learning **Web develop**
+- 🌱 I’m currently learning **Data Science**
 
-- 👯 I’m looking to collaborate on [Tego Petcare](tego.pet)
+- 👯 I’m looking to collaborate on LLM /AI Projects
 
 - 👨‍💻 All of my projects are available at [https://github.com/Cardaccio](https://github.com/Cardaccio)
 
